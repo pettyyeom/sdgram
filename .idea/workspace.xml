@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1eede881-9760-4d6b-a7f9-4dd42fa1312c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sdgram.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/asgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/settings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/manage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/posts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/splide.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/splide.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/posts/feeds.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/posts/post_add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/posts/tags.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/users/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/templates/users/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/admin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/apps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/migrations/0001_initial.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/migrations/0002_user_profile_image_user_short_description.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/migrations/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/users/views.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2bFcSqSXLlul18mbUMlSp3sB8nx" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Python.forms.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/user/PycharmProjects/pystagram-19.3_View-_-_URL&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-50da183f06c8-2887949eec09-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.13135.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1eede881-9760-4d6b-a7f9-4dd42fa1312c" name="Changes" comment="" />
+      <created>1705814269599</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1705814269599</updated>
+      <workItem from="1705814285237" duration="9149000" />
+      <workItem from="1705835173089" duration="7739000" />
+      <workItem from="1705897301320" duration="127000" />
+      <workItem from="1705897499419" duration="29000" />
+      <workItem from="1705897541191" duration="25000" />
+      <workItem from="1705897598715" duration="131000" />
+      <workItem from="1705897979136" duration="16000" />
+      <workItem from="1705898006117" duration="1203000" />
+      <workItem from="1705899830072" duration="332000" />
+      <workItem from="1705900286519" duration="958000" />
+      <workItem from="1705901294298" duration="380000" />
+      <workItem from="1705901701651" duration="76000" />
+      <workItem from="1705902325917" duration="425000" />
+      <workItem from="1705972136364" duration="99000" />
+      <workItem from="1705972263693" duration="45000" />
+      <workItem from="1705972335916" duration="1390000" />
+      <workItem from="1705973878494" duration="111000" />
+      <workItem from="1705974097973" duration="123000" />
+      <workItem from="1705974390375" duration="756000" />
+      <workItem from="1705975171548" duration="1795000" />
+      <workItem from="1705977110635" duration="568000" />
+      <workItem from="1705980899147" duration="106000" />
+      <workItem from="1705981157984" duration="147000" />
+      <workItem from="1705981320820" duration="20000" />
+      <workItem from="1705981383740" duration="418000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/posts/admin.py</url>
+          <line>27</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/sdgram$forms.coverage" NAME="forms Coverage Results" MODIFIED="1705974841538" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/posts" />
+  </component>
+</project>
